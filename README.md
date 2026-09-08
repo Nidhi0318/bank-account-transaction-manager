@@ -453,4 +453,31 @@ You may modify and use the source code for personal learning and academic projec
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 ---
+## 📌 Quick Start
+
+```bash
+# Terminal 1
+cd backend
+npm install
+npm start
+```
+
+```bash
+# Terminal 2
+cd frontend
+npm install
+npm run dev
+```
+
+Open:
+
+```text
+http://localhost:5173
+```
+
+Backend API:
+
+```text
+http://localhost:5000
+```
 
